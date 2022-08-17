@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roee Bar</h1>
 <h3 align="center">A passionate developer Developer with management experience looking for collaboration with high-thinking individuals. Looking for effective solutions to various problems.</h3>
 
-- 🌱 I’m currently learning **DevOps, Information System Engineering**
+- 🌱 I’m currently learning **Bachelor of Science in Information System Engineering,DevOps**
 
 - 📫 How to reach me **bar.roee@gmail.com**
 
