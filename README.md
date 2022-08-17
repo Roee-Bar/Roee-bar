@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Roee Bar</h1>
 <h3 align="center">A passionate developer Developer with management experience looking for collaboration with high-thinking individuals. Looking for effective solutions to various problems.</h3>
 
