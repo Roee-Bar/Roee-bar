@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@theroeebar" target="blank"><img src="https://img.shields.io/twitter/follow/@theroeebar?logo=twitter&style=for-the-badge" alt="@theroeebar" /></a> </p>
-
 - 🌱 I’m currently learning **Bachelor of Science in Information System Engineering, DevOps**
 
 - 📫 How to reach me **bar.roee@gmail.com**
