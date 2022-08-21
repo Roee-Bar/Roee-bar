@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Bachelor of Science in Information System Engineering, DevOps**
 
-- 📫 How to reach me **bar.roee@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@theroeebar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@theroeebar" height="30" width="40" /></a>
