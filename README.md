@@ -1,5 +1,4 @@
-<img src="https://user-images.githubusercontent.com/75714824/185949760-6e40751d-26dd-413d-ad50-fc4cfc97773b.gif"/>
-<h3 align="center">Developer with management experience looking for collaboration with high-thinking individuals.<br />Looking for effective solutions to various problems.</h3>
+# Hi, I'm Roee Bar
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
 
