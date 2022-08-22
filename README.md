@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
 
 - 🌱 I’m currently learning **Bachelor of Science in Information System Engineering, DevOps**
+- ⚡ Fun fact **I am a Dungeons and Dragons GM and like Scuba diving (Second-star diving certified)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
