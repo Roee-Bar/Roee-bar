@@ -18,8 +18,6 @@
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> My hobbies :game_die::dragon_face:**Dungeons and Dragons, :ocean::swimmer: Scuba diveing (Second-star diving certified)**
 
-___
-
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roee-bar&show_icons=true&locale=en&layout=compact" alt="roee-bar" />
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=roee-bar&show_icons=true&locale=en" alt="roee-bar" /></p>
