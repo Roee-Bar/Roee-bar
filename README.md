@@ -21,4 +21,6 @@
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=roee-bar&show_icons=true&locale=en" alt="roee-bar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roee-bar&" alt="roee-bar" /></p>
+<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=roee-bar&" alt="roee-bar" /></p>
+
+<p><img align="left" src="https://user-images.githubusercontent.com/75714824/185950959-82b5f3f0-d371-47d5-9a4c-5028a9a6ec1d.gif" width="245" height="188"/>
