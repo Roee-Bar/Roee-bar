@@ -2,6 +2,8 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Roee Bar</h1>
+![your_cool_intro](https://user-images.githubusercontent.com/75714824/185946993-f0d77816-f3f2-4466-a7e0-88e537548335.gif)
+
 <h3 align="center">Developer with management experience looking for collaboration with high-thinking individuals.<br />Looking for effective solutions to various problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
