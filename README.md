@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roee Bar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Roee Bar</h1>
 <h3 align="center">Developer with management experience looking for collaboration with high-thinking individuals.<br />Looking for effective solutions to various problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
