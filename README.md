@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roee-bar&label=Profile%20views&color=0e75b6&style=flat" alt="roee-bar" /> </p>
 
-- 🌱 I’m currently learning **:mortar_board:Bachelor of Science in Information System Engineering, DevOps :computer:**
-- ⚡ Fun facts :game_die: **I am a Dungeons and Dragons GM :dragon_face:, :ocean: I Scuba dive (Second-star diving certified) :swimmer:**
+- 🌱 I’m currently learning **:mortar_board: :computer:Bachelor of Science in Information System Engineering, DevOps**
+- ⚡ Fun facts :game_die::swimmer:**I am a Dungeons and Dragons GM :dragon_face:, :ocean: I Scuba dive (Second-star diving certified)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
