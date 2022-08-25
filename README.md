@@ -16,7 +16,7 @@
 <a href="https://instagram.com/roee_bar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roee_bar" height="30" width="40" /></a>
 </p>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> My hobbies :game_die::dragon_face:**Dungeons and Dragons, :ocean::swimmer: Scuba diveing (Second-star diving certified)**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> My hobbies :game_die::dragon_face:**Dungeons and Dragons, :ocean::swimmer: Scuba diving (Second-star diving certified)**
 
 <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=roee-bar&show_icons=true&locale=en&layout=compact" alt="roee-bar" />
 
