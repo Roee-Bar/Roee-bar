@@ -1,7 +1,11 @@
 ## Hi I'm Roee Bar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> I’m currently learning **:mortar_board: :computer: Bachelor of Science in Information System Engineering**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> My [Resume/CV](https://github.com/Roee-Bar/resume/blob/main/Roee%20bar%20resume%20for%20github.pdf)
+- <img 
+    src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true"
+    width="25"
+  />
+  My [Resume/CV](https://drive.google.com/file/d/1ZOIMqycUFf7U-HbIKAdzW3jdulxoZ3SF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
