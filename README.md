@@ -17,6 +17,8 @@
 </a>
 </p>
 
+#
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -36,14 +38,7 @@
   </a>
 </p>
 
-- My hobbies: :ocean::swimmer: Scuba diving (Second-star diving certified)
+#
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=roee-bar&show_icons=true&locale=en" alt="roee-bar" /></p>
 
-#
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-   TBD
-
-#
