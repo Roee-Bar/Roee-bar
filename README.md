@@ -1,5 +1,7 @@
 ## Hi I'm Roee Bar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
+2ND YEAR INFORMATION SYSTEM ENGINEERING STUDENT
+
 Motivated with leadership and technical experience. <br>
 Developed strong organizational and communication skills as an Israeli air force officer. <br>
 Developed coaching and mentoring skills by leading my college's debate club. <br>
