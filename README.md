@@ -38,4 +38,12 @@
 
 - My hobbies: :ocean::swimmer: Scuba diving (Second-star diving certified)
 
-<p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=roee-bar&show_icons=true&locale=en" alt="roee-bar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=roee-bar&show_icons=true&locale=en" alt="roee-bar" /></p>
+
+#
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+   TBD
+
+#
