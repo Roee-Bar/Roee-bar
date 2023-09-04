@@ -2,11 +2,12 @@
 
 3RD YEAR INFORMATION SYSTEM ENGINEERING STUDENT
 
-Motivated with leadership and technical experience. <br>
-Developed strong organizational and communication skills as an Israeli air force officer. <br>
-Developed coaching and mentoring skills by leading my college's debate club. <br>
-Presented complex technical concepts clearly and engagingly in my current role as a computer science instructor. <br>
-With my skills and experience, I'm looking forward to applying them to a fulfilling career.
+Listening to Audiobooks and podcasts I can learn form while driving is my ideal way to start and end my workday.
+My favorite subjects in recent years are Greek philosophy stoicism, finance, lifestyle design, and cinema.
+I'm fascinated by the ever-changing nature of data and algorithms driven to contribute to impactful solutions.
+I truly enjoy finding and collaborating with growth mindsets projects and people.
+With fluency in English and Hebrew, I am excited to apply my skills and knowledge to a fulfilling career
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/@theroeebar" target="blank">
@@ -38,9 +39,6 @@ With my skills and experience, I'm looking forward to applying them to a fulfill
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
 
