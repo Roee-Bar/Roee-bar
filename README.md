@@ -24,9 +24,8 @@ With fluency in English and Hebrew, I am excited to apply my skills and knowledg
 </a>
 </p>
 
-#
 
-PROFESSIONAL EXPERIENCE<br>
+## PROFESSIONAL EXPERIENCE
 **Data Analyst & Statistics** at Elbit Systems (July 2023 – Present)
 - Generate comprehensive and insightful reports using Business Objects.
 - Develop and put in place metrics to track the performance of different processes.
@@ -44,17 +43,15 @@ _Skills_: Teaching, Presentation, Communication, Grading and Feedback.<br>
 
 **Security Guard** at Technion - Israel institute of technology (May 2019 – October 2021)
 
-#
 
-EDUCATION<br>
+## EDUCATION
 **B.Sc. Information System Engineering** at Braude College of Engineering (October 2021 – June 2025)
 - Majoring in computer science, IT, and business management.<br>
 _Technologies_: Python, C, HTML, CSS, Assembly, Java, SQL, Spyder-IDE, Visual Studio, Eclipse.<br>
 _Relevant Coursework_: Object-oriented programming, Data Structures and Algorithms, Fundamentals of Computing, Software Systems Architecture, Intro to: Systems Programming, Software Engineering, Computer Science.
 
-#
 
-MILITARY SERVICE<br>
+## MILITARY SERVICE
 **Battalion Training Officer First Lieutenant at Israel Air Defense Force** (March 2018 – March 2019)
 - Built and led battalion-level (300+ soldiers) quarterly and semi-annual operational training plans and events.
 - Leveraged data analysis tools to measure and optimize training, resulting in an increase in overall battalion readiness.<br>
@@ -67,7 +64,8 @@ _Skills_: Project Management, Collaboration, Problem Solving, Leadership, Time M
 _Technologies_: Microsoft Excel, Microsoft PowerPoint, Microsoft Word.<br>
 _Skills_: Problem Solving, Communication, Decision Making, Leadership, Teamwork.
 
-VOLUNTEERING
+
+## VOLUNTEERING
 **Head Of the Debate Team at Braude College of Engineering** (Jun 2022 – Present)
 - Leading a team of debaters in organizing and hosting weekly debates and workshops, Increased by 57% number of members.
 
