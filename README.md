@@ -1,7 +1,7 @@
 # Roee Bar | Software Engineer & Data Analyst 👨‍💻📊
 
 ## 👋 About Me
-Hey there! I'm Roee, a Software Engineer with a passion for data analysis and a knack for explaining complex technical concepts.  
+Hey there! I'm Roee, a Software Engineer with experience in data analysis and a knack for explaining complex technical concepts.  
 Currently pursuing a B.Sc. in Information Systems Engineering at Braude College of Engineering.  
 I bring a unique blend of technical skills and leadership experience to the table.
 
