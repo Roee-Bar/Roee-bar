@@ -2,8 +2,8 @@
 
 ## 👋 About Me
 Hey there! I'm Roee, a Software Engineer with experience in data analysis and a knack for explaining complex technical concepts.  
-Currently pursuing a B.Sc. in Information Systems Engineering at Braude College of Engineering.  
-I bring a unique blend of technical skills and leadership experience to the table.
+Currently pursuing a B.Sc. in Software Engineering at Braude College of Engineering.  
+I bring a unique blend of technical skills and leadership experience.
 
 ## 🚀 What I'm Up To
 - 💼 Working as a Business Intelligence Data Analyst at Elbit Systems
