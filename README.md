@@ -10,7 +10,7 @@ Committed to providing smart and innovative solutions that help teams tackle tec
 
 ## 🚀 What I'm Up To
 - 💼 Working as a Business Intelligence Data Analyst at Elbit Systems
-- 🎓 Studying Software Engineering (Expected graduation: Mar 2026)
+- 🎓 Studying B.Sc. Software Engineering (Expected graduation: Mar 2026)
 - 🌱 Always learning and exploring new technologies
 - 🤝 Manager at Technion Venture Capital Club
 
