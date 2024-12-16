@@ -1,15 +1,18 @@
-# Roee Bar | Software Engineer & Data Analyst 👨‍💻📊
+# Roee Bar | Software Engineer 👨‍💻
+
+# I DO SOFTWARE
 
 ## 👋 About Me
-Hey there! I'm Roee, a Software Engineer with experience in data analysis and a knack for explaining complex technical concepts.  
-Currently pursuing a B.Sc. in Software Engineering at Braude College of Engineering.  
-I bring a unique blend of technical skills and leadership experience.
+Hey there! I'm Roee, a Software Engineer with experience developing systems and analyzing business data.
+Skilled in developing applications by requirements and transforming data into actionable insights.
+Strong project management and team leadership abilities.
+Committed to providing smart and innovative solutions that help teams tackle technological challenges.
 
 ## 🚀 What I'm Up To
 - 💼 Working as a Business Intelligence Data Analyst at Elbit Systems
-- 🎓 Studying Information Systems Engineering (Expected graduation: Mar 2026)
+- 🎓 Studying Software Engineering (Expected graduation: Mar 2026)
 - 🌱 Always learning and exploring new technologies
-- 🤝 Member of the Technion Venture Capital Club
+- 🤝 Manager at Technion Venture Capital Club
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python, Java, JavaScript, TypeScript, C, SQL, HTML, CSS, Assembly
@@ -39,7 +42,7 @@ I bring a unique blend of technical skills and leadership experience.
 - **Operational Training Officer (First Lieutenant)** in Israel Air Defense Force
 
 ## 🌐 Let's Connect!
-I'm always excited to collaborate on innovative projects and discuss the latest in tech. Feel free to reach out!  
+I'm always excited to collaborate on innovative projects and discuss the latest tech. Feel free to reach out!  
 I'm 1 Message away.
 
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roeebar.com/)
@@ -50,4 +53,4 @@ I'm 1 Message away.
 
 ---
 
-💡 _"luck is what happens when preparation meets opportunity."_ - Seneca, Roman philosopher
+💡 _"Luck is what happens when preparation meets opportunity."_ - Seneca, Roman philosopher
