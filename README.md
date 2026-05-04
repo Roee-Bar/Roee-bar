@@ -1,49 +1,54 @@
 # Roee Bar | Software Engineer 👨‍💻
 
-# I DO SOFTWARE
-
 ## 👋 About Me
-Hey there! I'm Roee, a Software Engineer with experience developing systems and analyzing business data.
-Skilled in developing applications by requirements and transforming data into actionable insights.
-Strong project management and team leadership abilities.
-Committed to providing smart and innovative solutions that help teams tackle technological challenges.
+
+Hey there! I'm Roee, a Software Engineer passionate about building scalable systems and creating elegant solutions to complex problems. With experience in full-stack development, data engineering, and distributed systems, I love transforming ideas into impactful products.
 
 ## 🚀 What I'm Up To
-- 💼 Working as a Business Intelligence Data Analyst at Elbit Systems
-- 🎓 Studying B.Sc. Software Engineering (Expected graduation: Mar 2026)
-- 🌱 Always learning and exploring new technologies
-- 🤝 Manager at Technion Venture Capital Club
+
+- 💼 Software Engineer (Post-graduation)
+- 🌱 Continuously learning and exploring emerging technologies
+- 🤝 Active in tech communities and collaborative projects
+- 🎯 Focused on building high-quality, maintainable software
 
 ## 💻 Technical Skills
+
 - **Programming Languages:** Python, Java, JavaScript, TypeScript, C, SQL, HTML, CSS, Assembly
-- **Data Analysis:** Power BI, Qlik Sense, Data Visualization
-- **Databases:** SQLite, MySQL
-- **Web Development:** Node.js, Express, EJS
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Linux
-- **Containerization & DevOps:** Docker
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** SQLite, MySQL, PostgreSQL
+- **Data Analysis & BI:** Power BI, Qlik Sense, Data Visualization
+- **DevOps & Tools:** Docker, Git, GitHub, Linux
+- **Testing:** Vitest, Playwright, Unit Testing, E2E Testing
 
-## 🏆 Notable Projects
-1. [Restaurant Management System](https://github.com/Roee-Bar/BiteME-Project/tree/main)
-   - Java, JavaFX GUI, MySQL, JDBC, OCSF
-   - Client-server architecture for efficient restaurant management
+## 🏆 Experience
 
-2. [Mortgage Assist Website](https://github.com/Roee-Bar/Mortgage-Client-and-Server-Side-Project)
-   - Node.js, EJS, HTML, CSS, JavaScript, SQLite
-   - Full-stack web application for mortgage assistance
+### Software Development
+- Full-stack web application development using modern JavaScript frameworks
+- Building responsive, accessible user interfaces with React and Next.js
+- Database design and optimization
+- API development and integration
+- Version control and collaborative development with Git
 
-3. [IOT Assistance System](https://harelzx.github.io/NinjaBraude.github.io/index.html)
-   - JavaScript, HTML, CSS, Node-RED, Firebase
-   - IoT-based system for patient rehabilitation and physiotherapy
+### Business Intelligence & Data Analysis
+- Data visualization and insights generation using Power BI and Qlik Sense
+- Translating business requirements into analytical solutions
 
-## 🌟 Leadership Experience
+### Leadership & Mentoring
+- Technical mentorship and knowledge sharing
+- Course instruction and educational content creation
+- Community engagement and networking
+
+## 🌟 Professional Background
+
+- **Software Engineer** at Aqua Security
+- **Business Intelligence Data Analyst** at Elbit Systems
 - **Course Instructor** at Cyber Education Center
 - **Head of Debate Team** at Braude College of Engineering
-- **Operational Training Officer (First Lieutenant)** in Israel Air Defense Force
 
 ## 🌐 Let's Connect!
-I'm always excited to collaborate on innovative projects and discuss the latest tech. Feel free to reach out!  
-I'm 1 Message away.
+
+I'm always excited to collaborate on innovative projects and discuss the latest in tech. Feel free to reach out!
 
 [![Personal Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://roeebar.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roee-bar/)
